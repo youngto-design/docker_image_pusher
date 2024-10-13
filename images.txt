@@ -11,3 +11,5 @@ nyanmisaka/jellyfin
 jlesage/firefox
 snowdreamtech/frpc:0.33.0
 cnk3x/xunlei
+linuxserver/syncthing
+allanpk716/chinesesubfinder
