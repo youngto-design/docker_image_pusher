@@ -4,13 +4,5 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-80x86/filebrowser:2.10.3-amd64
-hsuyelin/nas-tools:3.4.1
-linuxserver/qbittorrent
-nyanmisaka/jellyfin
-jlesage/firefox
-snowdreamtech/frpc:0.33.0
-cnk3x/xunlei
-linuxserver/syncthing
-allanpk716/chinesesubfinder
+nyanmisaka/jellyfin:241027-amd64
 jellyfin/jellyfin:10.10.0-amd64.20241026-173349
