@@ -13,3 +13,4 @@ snowdreamtech/frpc:0.33.0
 cnk3x/xunlei
 linuxserver/syncthing
 allanpk716/chinesesubfinder
+jellyfin/jellyfin:10.10.0-amd64.20241026-173349
