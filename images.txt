@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nyanmisaka/jellyfin:241027-amd64
-jellyfin/jellyfin:10.10.0-amd64.20241026-173349
+jellyfin/jellyfin:2024110405-amd64
