@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jellyfin/jellyfin:2024110405-amd64
+6053537/portainer-ce:2.19.5
