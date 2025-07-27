@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dingdangdog/cashbook:4.1.4
+dingdangdog/cashbook:4.3.3
